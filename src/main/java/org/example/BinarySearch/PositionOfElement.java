@@ -46,7 +46,7 @@ public class PositionOfElement {
 
     public static void main(String[] args) {
         int[] arr = {2, 3, 4, 7, 7, 7, 7, 8, 9, 10};
-        int target = 10;
+        int target = 0;
         System.out.println(Arrays.toString(firstAndLastOccurance(arr, target)));
     }
 }
