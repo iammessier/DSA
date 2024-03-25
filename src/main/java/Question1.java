@@ -30,7 +30,7 @@ public class Question1 {
         int m = 4, n = 4;
         int[] ar1 = {1,4,5,7};
         int[] ar2 = {10,20,30,40};
-        int x = 38;
+        int x = 32;
         printClosest(ar1, ar2, m, n, x);
     }
 }
